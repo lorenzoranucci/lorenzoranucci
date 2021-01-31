@@ -25,7 +25,7 @@ I work on new features of the product and on enhancing the backend system in gen
 - Many features related to our core monolithic application. It runs Php 7.4 application with Symfony 4.4. Having huge tables and high availability requirements I had to manage database schema/data migrations without downtime and queries optimization (MySQL 5.7 and Doctrine).
 - Enhancement of DevOps: CI/CD (using Drone), infrastructure (Kubernetes with Helm Charts), dev-environment (docker-compose).
 
-ProntoPro is an amazing startup, full of very talented people from whom I learn a lot. Here I learned to work in an agile paced and remote oriented environment, to communicate in English on a daily basis, to measure between quality and velocity, to build stuff that scales and is reliable, to avoid breaking changes, to use KISS, SOLID, DDD, TDD, to have useful retrospective and to improve Cycle after Cycle, to follow solid coding standards and enforce them through CI and Code Reviews.
+ProntoPro is an amazing startup, full of very talented people from whom I learn a lot. Here I learned to work in an agile paced and remote oriented environment, to communicate in English on a daily basis, to measure between quality and velocity, to build stuff that scales and is reliable, to avoid breaking changes, to use KISS, SOLID, DDD, TDD, to have useful retrospectives to improve Cycle after Cycle, to follow solid coding standards and enforce them through CI and Code Reviews.
 
 ### Backend Software Engineer at Accenture
 #### Oct 2018 - Apr 2019
@@ -51,11 +51,15 @@ In the near future, I expect to find time to contribute to open source projects.
 
 From my career, I expect to become a Staff Engineer in a remote-first company.
 
-From my life, I expect to live with my family in my hometown, Montefiascone.---
+From my life, I expect to live with my family in my hometown, Montefiascone.
+
+---
 
 ## Buzz words related to my work:
 
 `Clean coding principles` `DDD` `SOLID principles` `Extreme Programming` `Go` `Php` `Java` `Docker` `Git` `GitHub` `MySql` `Elasticsearch` `Redis` `RabbitMQ` `Symfony` `Agile Practices` `Kubernetes` `Helm Charts` `Natural Language Processing` `Linked Open Data` `Code Reviews` 
+
+---
 
 ## Contact
 
