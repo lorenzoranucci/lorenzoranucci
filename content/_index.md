@@ -6,7 +6,11 @@ title = "About Lorenzo"
 
 {{< figure class="avatar" src="/avatar.png" >}}
 
-I am a very passionate software engineer.
+> The goal of the architect is to create a shape for the system that recognizes policy (business rules and procedures) as the most essential element of the system while making the details irrelevant to that policy. This allows decisions about those details to be delayed and deferred.
+
+These words of Robert Martin are a guide for me. I'm not interested in being the best Go / Php / Java programmer or a Kubernetes guru or a skilled MySQL and Elasticsearch user or the one who knows every feature of Symfony and Spring - these are just details for me. 
+
+I want to design systems that give maximum value to my business, that are able to scale, that are flexible to change using the right trade-offs.
 
 [GitHub](https://github.com/lorenzoranucci) | [LinkedIn](https://www.linkedin.com/in/lorenzo-franco-ranucci-859416b2/)
 
@@ -55,9 +59,9 @@ From my life, I expect to live with my family in my hometown, Montefiascone.
 
 ---
 
-## Buzz words related to my work:
+## Buzzwords related to my work:
 
-`Clean coding principles` `DDD` `SOLID principles` `Extreme Programming` `Go` `Php` `Java` `Docker` `Git` `GitHub` `MySql` `Elasticsearch` `Redis` `RabbitMQ` `Symfony` `Agile Practices` `Kubernetes` `Helm Charts` `Natural Language Processing` `Linked Open Data` `Code Reviews` 
+`Clean coding principles` `Software architecture` `DDD` `SOLID principles` `Extreme Programming` `Go` `Php` `Java` `Docker` `Git` `GitHub` `MySql` `Elasticsearch` `Redis` `RabbitMQ` `Symfony` `Agile Practices` `Kubernetes` `Helm Charts` `Natural Language Processing` `Linked Open Data` `Code Reviews` `TDD`
 
 ---
 
@@ -65,3 +69,4 @@ From my life, I expect to live with my family in my hometown, Montefiascone.
 
 * Email: [lorenzofranco.ranucci@gmail.com](mailto:lorenzofranco.ranucci@gmail.com)
 * Phone: [+39-3494191878](tel:+39-3494191878)
+* Address: Via Carlo Alberto 53, Roma (RM), 00185
