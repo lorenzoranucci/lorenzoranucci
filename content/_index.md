@@ -4,7 +4,7 @@ title = "About Lorenzo"
 
 ## About Me
 
-{{< figure class="avatar" src="/avatar.png" >}}
+{{< figure class="avatar" src="/avatar.jpeg" >}}
 
 > The goal of the architect is to create a shape for the system that recognizes policy (business rules and procedures) as the most essential element of the system while making the details irrelevant to that policy. This allows decisions about those details to be delayed and deferred.
 
