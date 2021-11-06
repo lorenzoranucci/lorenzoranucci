@@ -88,3 +88,4 @@ From my life, I expect to live with my family in my hometown, Montefiascone.
 * Email: [lorenzofranco.ranucci@gmail.com](mailto:lorenzofranco.ranucci@gmail.com)
 * Phone: [+39-3494191878](tel:+39-3494191878)
 * Address: Via Carlo Alberto 53, Roma (RM), 00185
+* Date of birth: 11-08-1991
