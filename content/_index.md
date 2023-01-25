@@ -19,7 +19,9 @@ daily work.
 
 ## Experience
 
-### [ProntoPro](https://prontopro.it) | _Jun 2019 - Now_
+### [ProntoPro](https://prontopro.it)
+
+#### _Jun 2019 - Now_
 
 At **ProntoPro** I am having the most rewarding training experience of my now decade-long career.
 I think telling about my experience in ProntoPro expresses in the best possible way what I am as a professional.
@@ -35,9 +37,10 @@ departments and functions.
 #### Context
 
 ProntoPro is a professional services marketplace and a company of about 100 people, including
-about 40 engineers. 
+about 40 engineers.
 
 ProntoPro in numbers:
+
 - thousands of job requests per day from customers.
 - Tens of thousands of quotes per day from professionals.
 - Thousands of logins per day.
@@ -113,37 +116,36 @@ As a member of the Architecture team, I am responsible for:
 - **Backend Software Engineer** | _Jun 2019 - Apr 2021_
     - Main achievements:
         - Search Engine Result Page (SERP): gives consumers the ability to search and filter between ~ 1M professionals
-          from ~
-          1k of different kinds of jobs in six countries. It's a Go microservice, receiving data from a monolithic Php
-          application
-          via RabbitMQ messages, storing them and making them searchable in Elasticsearch. It also calculates job prices
-          using
-          Elasticsearch aggregations.
+          from ~1k of different kinds of jobs in six countries. It's a Go microservice, receiving data from a monolithic
+          Php application via RabbitMQ messages, storing them and making them searchable in Elasticsearch. It also
+          calculates job prices using Elasticsearch aggregations.
         - Authentication System: this allows our clients to authenticate using the OAuth 2.0 + OpenID standards. It runs
-          on a
-          custom
-          Go microservice for the Identity Provider part and on [ory/hydra](https://github.com/ory/hydra) for the OAuth
-          2.0 +
-          OpenID flow orchestration.
+          on a custom Go microservice for the Identity Provider part and on [ory/hydra](https://github.com/ory/hydra)
+          for the OAuth 2.0 and OpenID flow orchestration.
         - Online badge: stores and exposes the online status of the professionals. It's a Go microservice that receives
           professionals' heartbeats sent by FE clients, stores them in Redis (until they expire), and exposes an online
-          status for
-          professionals.
+          status for professionals.
 
-### Backend Software Engineer at Accenture | _Oct 2018 - Apr 2019_
+### Backend Software Engineer at Accenture
+
+#### _Oct 2018 - Apr 2019_
 
 I worked as a consultant for the Italian traffic police. I managed the technological modernization of a complex legacy
 system for the management of manual and automatic fines. Java with Swing framework and Oracle DB were the technology
 used.
 
-### Software and Data Engineer at UmbriaDigitale | _Nov 2014 - Oct 2018_
+### Software and Data Engineer at UmbriaDigitale
+
+#### _Nov 2014 - Oct 2018_
 
 As a Data Engineer, I managed the transformation of relational and textual data in Linked Open Data. This includes the
 design of ETL processes, the choice of appropriate RDF ontologies, and the build of a SPARQL database.
 
 As a Software Engineer, I developed web applications in Java and Php.
 
-### Freelance Software Engineer | _Sep 2013 - Oct 2018_
+### Freelance Software Engineer
+
+#### _Sep 2013 - Oct 2018_
 
 Engineering of web and mobile applications.
 Technologies: Magento 2, Joomla, PHP 7, Java 7, Android, MySQL, HTML, JavaScript, CSS.
