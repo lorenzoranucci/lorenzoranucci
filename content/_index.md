@@ -23,7 +23,7 @@ daily work.
 
 #### _Jun 2019 - Now_
 
-At **ProntoPro** I am having the most rewarding training experience of my now decade-long career.
+At **ProntoPro** I am having the most rewarding and training experience of my now decade-long career.
 I think telling about my experience in ProntoPro expresses in the best possible way what I am as a professional.
 
 Here I'm proud to work on a product that has the **purpose of helping hundreds of thousands of
@@ -73,18 +73,15 @@ Machine learning applications are developed by Data Science and Data Engineering
 
 As a software engineer, my daily work consists of several activities, which are frequently and continuously iterated:
 
-- I work side by side with cross-functional figures on design ideation and requirements specification, using
+- I work side by side with cross-functional figures on features' ideation and requirements specification, using
   tools such as **Example Mapping** and **Gherkin**. At this stage, we also try to analyze at a high level whether the
-  effort
-  required by the project to meet the time expectations of the business management and eventually how to outline an MVP
+  effort required by the project meets the time expectations of the business management and eventually how to outline an MVP
   and how to deconstruct a large project into sequential iterations. Here the principles of the **Agile Manifesto** are
-  my
-  main guide.
-- I collaborate with other engineers on how to define fast implementation iterations that provide working and testable
-  software as output. Here we use **feature flags** and **Asana** as tools.
+  my main guide.
+- I collaborate with other engineers on how to define fast implementation iterations that provide working, reliable, 
+  maintainable and scalable software as output. Here we use **feature flags** and **Asana** as tools.
 - I implement the software in collaboration with other colleagues. Here **pair/mob programming** practices, **code
-  reviews**,
-  and **TDD** are critical to ensure high quality and fast feedback loops that guarantee a satisfactory time to market.
+  reviews**, and **TDD** are critical to ensure high quality and fast feedback loops that guarantee a satisfactory time to market.
 
 As a member of the Backend Core team and as a Backend Engineer with the greatest seniority, I am responsible for:
 
