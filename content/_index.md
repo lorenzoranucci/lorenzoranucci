@@ -94,7 +94,7 @@ As a member of the Backend Core team and as a Backend Engineer with the greatest
 As a member of the Architecture team, I am responsible for:
 
 - managing relationships with other engineering functions.
-- Driving the Engineering evolution by defining vision, strategies, tactics, and roadmap.
+- Driving the engineering evolution by defining vision, strategies, tactics, and roadmap.
 
 #### Timeline
 
